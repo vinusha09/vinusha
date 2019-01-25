@@ -29,7 +29,7 @@ I'm from India,completed my under grad in 2016 in Information Technology and wor
 
 - [Udemy](https://www.udemy.com/) Udemy.com is an online learning platform. It is aimed at professional adults. Unlike academic massive   open online course programs which are driven by traditional collegiate coursework.
 
--[Codecademy](https://www.codecademy.com/) Codecademy is an online interactive platform that offers free coding classes in 12 different   programming languages including Python, Java, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
+- [Codecademy](https://www.codecademy.com/) Codecademy is an online interactive platform that offers free coding classes in 12 different   programming languages including Python, Java, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
 
 ## Contributors
 
