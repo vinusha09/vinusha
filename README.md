@@ -7,6 +7,6 @@ I'm from India,completed my under grad in 2016 in Information Technology and wor
 
 ## Repository Links
 
-- [Webpage] (https://github.com/vinusha09/vinusha)
+- [Webpage](https://github.com/vinusha09/vinusha)
 
-- [Source] (https://github.com/vinusha09/vinusha/blob/master/README.md)
+- [Source](https://github.com/vinusha09/vinusha/blob/master/README.md)
