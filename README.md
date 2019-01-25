@@ -11,11 +11,12 @@ I'm from India,completed my under grad in 2016 in Information Technology and wor
 
 - [Source](https://github.com/vinusha09/vinusha/blob/master/README.md)
  
- ## About
- 
- This helps me in practice with Git.
 
- ## Recommended Tools
+## About
+ 
+This helps me in practice with Git.
+
+## Recommended Tools
  
  1. [TortoiseGit](https://tortoisegit.org/) TortoiseGit is a Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN. It is free software released under the GNU General Public License.
  
@@ -23,12 +24,11 @@ I'm from India,completed my under grad in 2016 in Information Technology and wor
 
  3. [BitBucket](https://bitbucket.org/) Bitbucket is a web-based version control repository hosting service owned by Atlassian, for source code and development projects that use either Mercurial or Git revision control systems.
 
- ## Recommended Resources
+## Recommended Resources
  
 - [Coursera](https://www.coursera.org/)  Coursera is an online learning platform, which we can learn languages like python, java, etc.,
 
 - [Udemy](https://www.udemy.com/) Udemy.com is an online learning platform. It is aimed at professional adults. Unlike academic massive   open online course programs which are driven by traditional collegiate coursework.
-
 - [Codecademy](https://www.codecademy.com/) Codecademy is an online interactive platform that offers free coding classes in 12 different   programming languages including Python, Java, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
 
 ## Contributors
