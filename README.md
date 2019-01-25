@@ -10,3 +10,7 @@ I'm from India,completed my under grad in 2016 in Information Technology and wor
 - [Webpage](https://github.com/vinusha09/vinusha)
 
 - [Source](https://github.com/vinusha09/vinusha/blob/master/README.md)
+ 
+ ## About
+
+ This helps me in practice with Git.
